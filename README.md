@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm sachin kumar shaw</h1>
-<h3 align="center">I am pursuing Bachlor of computer aaplication</h3>
+<h3 align="center">I am pursuing Bachlor of computer application</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachinkumarshaw&label=Profile%20views&color=0e75b6&style=flat" alt="sachinkumarshaw" /> </p>
 
-- 🌱 I’m currently learning **Data structure**
+- 🌱 I’m currently learning **Java**
 
-- 💬 Ask me about **data structures,data science**
+- 💬 Ask me about **Data enginering**
 
 - 📫 How to reach me **sachinkumarshaw@gamil.com**
 
