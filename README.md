@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 💬 Ask me about **Data enginering**
+- 💬 Ask me about **Data engineering**
 
 - 📫 How to reach me **sachinkumarshaw@gamil.com**
 
