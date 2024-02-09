@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachinkumarshaw&label=Profile%20views&color=0e75b6&style=flat" alt="sachinkumarshaw" /> </p>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Java and data engineering**
 
 - 💬 Ask me about **Data engineering**
 
