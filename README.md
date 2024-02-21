@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Data engineering**
 
-- 📫 How to reach me **sachinkumarshaw@gamil.com**
+- 📫 How to reach me **sachinkumarshaw5964@gamil.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
