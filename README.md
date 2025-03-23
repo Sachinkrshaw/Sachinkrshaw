@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachinkumarshaw&label=Profile%20views&color=0e75b6&style=flat" alt="sachinkumarshaw" /> </p>
 
-- 🌱 I’m currently learning **Java and data engineering**
+- 🌱 I’m currently learning **Ms Dynamic Business Central**
 
-- 💬 Ask me about **Data engineering**
+- 💬 Ask me about **Business Central Developer**
 
 - 📫 How to reach me **sachinkumarshaw5964@gamil.com**
 
