@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm sachin kumar shaw</h1>
-<h3 align="center">I am pursuing Bachlor of computer application</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachinkumarshaw&label=Profile%20views&color=0e75b6&style=flat" alt="sachinkumarshaw" /> </p>
 
 - 🌱 I’m currently learning **Ms Dynamic Business Central**
 
-- 💬 Ask me about **Business Central Developer**
+- 💬 Ask me about **Data**
 
 - 📫 How to reach me **sachinkumarshaw5964@gamil.com**
 
